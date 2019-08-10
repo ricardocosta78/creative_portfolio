@@ -1,0 +1,12 @@
+{
+  "name": "creative-portfolio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "portfolio.js",
+  "homepage": "https://ricardocosta78.github.io/creative_portfolio",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
